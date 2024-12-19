@@ -29,3 +29,5 @@ pids
 
 # Environment variables
 .env*
+
+.DS_Store
